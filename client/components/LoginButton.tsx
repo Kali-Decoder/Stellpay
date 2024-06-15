@@ -20,35 +20,24 @@ import {
 } from "@nextui-org/react";
 import { use, useState } from "react";
 
-export default function CreateTOGBtn() {
+export default function UserLoginButton() {
   const { isOpen, onOpen, onOpenChange } = useDisclosure();
   const [name, setName] = useState("");
   const [type, setType] = useState(1);
 
-  console.log(type);
-  const { mutate: sendTransaction, isError } = useSendTransaction();
-  const call = async () => {
-    const transaction = await prepareContractCall({
-      contract,
-      method: resolveMethod("createTOG"),
-      params: [name, type],
-    });
-    sendTransaction(transaction);
-  };
 
-  console.log(isError);
 
   return (
     <>
       <Button onPress={onOpen} color="primary">
-        Register Yourself
+        Login YourSelf
       </Button>
       <Modal isOpen={isOpen} onOpenChange={onOpenChange} placement="top-center">
         <ModalContent>
           {(onClose) => (
             <>
               <ModalHeader className="flex gap-1">
-                Create Your{" "}
+                Login Your{" "}
                 <span className="text-yellow-500 font-bold uppercase">
                   Stell Pay
                 </span>{" "}
@@ -63,22 +52,7 @@ export default function CreateTOGBtn() {
                   value={name}
                   type="text"
                 />
-                <Input
-                  autoFocus
-                  label="Enter Email"
-                  placeholder="nikku876@gmail.com"
-                  variant="bordered"
-                  value={name}
-                  type="email"
-                />
-                <Input
-                  autoFocus
-                  label="Enter Phone Number"
-                  placeholder="+919079.."
-                  variant="bordered"
-                  value={name}
-                  type="number"
-                />
+                
                 <Input
                   autoFocus
                   label="Enter Password"
@@ -88,31 +62,13 @@ export default function CreateTOGBtn() {
                   type="password"
                 />
 
-                <RadioGroup
-                  className="mt-3"
-                  label="Generate Payment Type"
-                  orientation="horizontal"
-                >
-                  <Radio
-                    onChange={(e) => setType(parseInt(e.target.value))}
-                    defaultChecked
-                    value="1"
-                  >
-                    Peer
-                  </Radio>
-                  <Radio
-                    onChange={(e) => setType(parseInt(e.target.value))}
-                    value="2"
-                  >
-                    Organisation
-                  </Radio>
-                </RadioGroup>
+           
               </ModalBody>
               <ModalFooter className="flex flex-col">
                 <div className="mt-4 mb-2 flex justify-between">
-                  <p className="text-sm">if You have Already an Account ?</p>
+                  <p className="text-sm">if You Don't have an Account ?</p>
                   <a className="text-sm text-blue-400">
-                    Login
+                    Register
                   </a>
                 </div>
 
@@ -122,7 +78,7 @@ export default function CreateTOGBtn() {
                   </Button>
 
                   <Button color="warning" variant="faded">
-                    Create
+                    Login
                   </Button>
                 </div>
               </ModalFooter>

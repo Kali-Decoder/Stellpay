@@ -7,8 +7,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Letterify",
-  description: "A web3 letter sending app",
+  title: "Stell-Pay",
+  description: "A web3 Payment Generate app",
 };
 
 export default function RootLayout({
