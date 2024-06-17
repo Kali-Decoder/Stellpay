@@ -1,13 +1,13 @@
 
 
-## Stellfi.me: The All-in-One Payment Platform with QR and Simplified Links
+## Stellpay: The All-in-One Payment Platform with QR and Simplified Links
 # Developer: Kunal Saini & Neeraj
 
 Imagine: Sending payments link and QR to users to receive your payment. Sending payments to your favorite creators ,shop etc with a unique, secure link - that's the power of stellpay!
 
 # Introducing Payment Gateway:
 
-# stellpay simplifies the world of payments by:
+# Stellpay simplifies the world of payments by:
 
 Centralized Hub: Manage all your payments and payment methods effortlessly.
 Frictionless Payments: Say goodbye to complex crypto transactions! Send and receive payments with ease.
