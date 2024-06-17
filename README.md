@@ -1,7 +1,7 @@
 
 
 ## Stellpay: The All-in-One Payment Platform with QR and Simplified Links
-# Developer: Kunal Saini & Neeraj
+# Developer: Kunal (Web3 Dev) & Neeraj (Web3 Dev)
 
 Imagine: Sending payments link and QR to users to receive your payment. Sending payments to your favorite creators ,shop etc with a unique, secure link - that's the power of stellpay!
 
@@ -15,7 +15,7 @@ Unique Identity: Your personal stellpay link acts as your secure, digital identi
 
 # Get Started:
 
-# Live Demo: Check out stellpay in action at [stellpay/iagefygefjjajhvjaj]
+# Live Demo: Check out stellpay in action at [stellpay/dQiVaViB2EC4Oo8X]
 Support Your Favorite Creators: Send payments directly to your favorite creators using their unique stellpay link ;)
 Beyond Payments:
 
