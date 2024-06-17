@@ -1,6 +1,8 @@
 
 
 ## Stellpay: The All-in-One Payment Platform with QR and Simplified Links
+![image](https://github.com/Kali-Decoder/Stellpay/assets/43953836/38451c5c-cab8-4fec-b74a-5dc8e48b9003)
+
 # Developer: Kunal (Web3 Dev) & Neeraj (Web3 Dev)
 
 Imagine: Sending payments link and QR to users to receive your payment. Sending payments to your favorite creators ,shop etc with a unique, secure link - that's the power of stellpay!
@@ -34,6 +36,10 @@ Deployed on testnet & key is : CCIPQBMRNNUMCKOZYBXEDHIZGKW4TLAFHU4D3NFRZBG2XZ7AU
 2. Backend: Web3 technologies (Rust & Soroban SDK)
 3. Database: MongoDB
 4. Payments: Freighter
+![image](https://github.com/Kali-Decoder/Stellpay/assets/43953836/9e9e30b4-34d1-4fca-9d95-b228b6126e48)
+![image](https://github.com/Kali-Decoder/Stellpay/assets/43953836/f6d29bc2-fd5c-4b29-ac5f-2edde012b73d)
+![image](https://github.com/thekunalsaini/Stellar_Project/assets/43953836/331c43d5-3b37-4606-9582-af4bd87e2e2b)
+![image](https://github.com/thekunalsaini/Stellar_Project/assets/43953836/4a700ea2-49a9-43cb-a944-352e5959dbaa)
 
 
 # Roadmap:
