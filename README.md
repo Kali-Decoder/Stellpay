@@ -37,9 +37,16 @@ Deployed on testnet & key is : CCIPQBMRNNUMCKOZYBXEDHIZGKW4TLAFHU4D3NFRZBG2XZ7AU
 3. Database: MongoDB
 4. Payments: Freighter
 ![image](https://github.com/Kali-Decoder/Stellpay/assets/43953836/9e9e30b4-34d1-4fca-9d95-b228b6126e48)
-![image](https://github.com/Kali-Decoder/Stellpay/assets/43953836/f6d29bc2-fd5c-4b29-ac5f-2edde012b73d)
-![image](https://github.com/thekunalsaini/Stellar_Project/assets/43953836/331c43d5-3b37-4606-9582-af4bd87e2e2b)
+
 ![image](https://github.com/thekunalsaini/Stellar_Project/assets/43953836/4a700ea2-49a9-43cb-a944-352e5959dbaa)
+
+![image](https://github.com/Kali-Decoder/Stellpay/assets/43953836/f6d29bc2-fd5c-4b29-ac5f-2edde012b73d)
+
+![image](https://github.com/Kali-Decoder/Stellpay/assets/43953836/d45dd534-0301-4056-a69a-e861ddc714a8)
+
+![image](https://github.com/Kali-Decoder/Stellpay/assets/43953836/27207abf-98fd-4208-b8e3-7a28aa36199b)
+
+
 
 
 # Roadmap:
