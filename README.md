@@ -9,9 +9,9 @@ Imagine: Sending payments link and QR to users to receive your payment. Sending 
 
 # Stellpay simplifies the world of payments by:
 
-Centralized Hub: Manage all your payments and payment methods effortlessly.
-Frictionless Payments: Say goodbye to complex crypto transactions! Send and receive payments with ease.
-Unique Identity: Your personal stellpay link acts as your secure, digital identity where you can receive payments.
+1. Centralized Hub: Manage all your payments and payment methods effortlessly.
+2. Frictionless Payments: Say goodbye to complex crypto transactions! Send and receive payments with ease.
+3. Unique Identity: Your personal stellpay link acts as your secure, digital identity where you can receive payments.
 
 # Get Started:
 
